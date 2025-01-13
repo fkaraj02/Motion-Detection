@@ -74,7 +74,7 @@ def exit_func():
 #Define the root
 root = tk.Tk()
 root.title("CCTV Camera")
-root.geometry("700x650")
+root.geometry("700x670")
 root.configure(bg="grey")
 
 #Define the labels and the buttons

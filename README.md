@@ -2,7 +2,7 @@
 This is a simple motion detection **Tkinter** desktop app, which uses the camera to detect movement and automatically captures motion in a video format. The modules used are **cv2** and **PIL**.
 
 ## Features
-- **Motion Detection**: Ability to detect motion by by using the camera of the host device.
+- **Motion Detection**: Ability to detect motion by using the camera of the host device.
 - **Recording**: Automatically records and saves a video, whenever motion is detected.
 - **Image Capturing**: Image capturing with the press of a button.
 

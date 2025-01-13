@@ -1,8 +1,6 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 import cv2
-from cv2 import VideoWriter
-from cv2 import VideoWriter_fourcc
 import datetime
 
 rec = None

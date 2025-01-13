@@ -9,10 +9,18 @@ This is a simple motion detection **Tkinter** desktop app, which uses the camera
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/fkaraj02/Motion-Detection.git```
+```
+git clone https://github.com/fkaraj02/Motion-Detection.git
+```
 2. Navigate to the directory:
-```cd Motion-Detection```
+```
+cd Motion-Detection
+```
 3. Install depedencies:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 4. Launching the app:
-```python main.py```
+```
+python main.py
+```
